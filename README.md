@@ -25,12 +25,6 @@ A beautiful and powerful **Canva-style editor** built with **React**, **Tailwind
 
 ---
 
-## 🚀 Live Demo
-
-[🔗 View Live Project](https://your-live-demo-link.com)
-
----
-
 ## 📸 Screenshots
 
 | Desktop View 
